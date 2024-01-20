@@ -33,19 +33,4 @@ This project explores and analyzes the Android app market on Google Play using d
 9. **Visualization Techniques:**
    - Plotly visualizations are used to present the analysis findings, providing an interactive and informative representation of the data.
 
-## How to View the Analysis
-
-To explore the analysis and visualizations, follow these steps:
-
-1. **Jupyter Notebook:**
-   - Open the Jupyter Notebook file (`Android_App_Market_Analysis.ipynb`) using Jupyter Notebook or Jupyter Lab.
-   - Execute the cells to see the analysis steps and visualizations.
-
-2. **View Static Images:**
-   - If viewing on GitHub, static images of Plotly visualizations are included directly in the notebook.
-   - For the full interactive experience, consider using nbviewer or Binder.
-
-3. **Export as HTML/PDF:**
-   - Export the notebook as HTML or PDF to view static snapshots of the analysis with visualizations.
-
 Feel free to explore, analyze, and gain insights into the Android app market on Google Play through this comprehensive data science project!
